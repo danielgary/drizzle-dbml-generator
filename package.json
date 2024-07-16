@@ -1,6 +1,6 @@
 {
-  "name": "drizzle-dbml-generator",
-  "version": "0.7.0",
+  "name": "@danielgary/drizzle-dbml-generator",
+  "version": "0.8.0",
   "description": "Convert your Drizzle ORM schema into DBML markup",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/L-Mario564/drizzle-dbml-generator.git"
+    "url": "git+https://github.com/danielgary/drizzle-dbml-generator.git"
   },
   "keywords": [
     "drizzle-orm",
     "dbml",
     "typescript"
   ],
-  "author": "Mario564",
+  "author": "Mario564 + Daniel Gary",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.5.6",

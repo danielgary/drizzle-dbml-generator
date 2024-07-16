@@ -1,8 +1,8 @@
 name: Publish Release
 on:
-  release:
-    types:
-      - released
+  push:
+    branches:
+      - temp
 jobs:
   publish:
     name: Publish Release
